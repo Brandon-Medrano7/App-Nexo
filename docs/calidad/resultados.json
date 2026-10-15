@@ -1,0 +1,130 @@
+{
+  "generado": "2026-10-15T01:09:22.762696+00:00",
+  "pruebas": 45,
+  "aprobadas": 45,
+  "fallidas": 0,
+  "omitidas": 0,
+  "porcentaje_aprobacion": 100.0,
+  "suites": [
+    {
+      "modulo": "Android",
+      "suite": "com.nexo.app.nexo.ComposeAppCommonTest",
+      "fecha": "2026-10-15T01:08:09.233Z",
+      "pruebas": 1,
+      "fallos": 0,
+      "errores": 0,
+      "omitidas": 0,
+      "segundos": 0.009
+    },
+    {
+      "modulo": "Android",
+      "suite": "com.nexo.app.util.CompromisosTest",
+      "fecha": "2026-10-15T01:08:09.244Z",
+      "pruebas": 3,
+      "fallos": 0,
+      "errores": 0,
+      "omitidas": 0,
+      "segundos": 0.012
+    },
+    {
+      "modulo": "Android",
+      "suite": "com.nexo.app.util.DivisasTest",
+      "fecha": "2026-10-15T01:08:09.257Z",
+      "pruebas": 2,
+      "fallos": 0,
+      "errores": 0,
+      "omitidas": 0,
+      "segundos": 0.005
+    },
+    {
+      "modulo": "Android",
+      "suite": "com.nexo.app.util.GastoPorVozTest",
+      "fecha": "2026-10-15T01:08:09.263Z",
+      "pruebas": 8,
+      "fallos": 0,
+      "errores": 0,
+      "omitidas": 0,
+      "segundos": 0.034
+    },
+    {
+      "modulo": "Android",
+      "suite": "com.nexo.app.util.PanelFinancieroTest",
+      "fecha": "2026-10-15T01:08:09.298Z",
+      "pruebas": 3,
+      "fallos": 0,
+      "errores": 0,
+      "omitidas": 0,
+      "segundos": 0.002
+    },
+    {
+      "modulo": "Android",
+      "suite": "com.nexo.app.util.PresupuestoTest",
+      "fecha": "2026-10-15T01:08:09.301Z",
+      "pruebas": 5,
+      "fallos": 0,
+      "errores": 0,
+      "omitidas": 0,
+      "segundos": 0.007
+    },
+    {
+      "modulo": "Servidor",
+      "suite": "com.example.BienestarTest",
+      "fecha": "2026-10-15T00:14:17.936Z",
+      "pruebas": 4,
+      "fallos": 0,
+      "errores": 0,
+      "omitidas": 0,
+      "segundos": 0.474
+    },
+    {
+      "modulo": "Servidor",
+      "suite": "com.example.CompromisosSqlTest",
+      "fecha": "2026-10-15T00:14:18.411Z",
+      "pruebas": 1,
+      "fallos": 0,
+      "errores": 0,
+      "omitidas": 0,
+      "segundos": 1.634
+    },
+    {
+      "modulo": "Servidor",
+      "suite": "com.example.CompromisosTest",
+      "fecha": "2026-10-15T00:14:20.050Z",
+      "pruebas": 5,
+      "fallos": 0,
+      "errores": 0,
+      "omitidas": 0,
+      "segundos": 0.066
+    },
+    {
+      "modulo": "Servidor",
+      "suite": "com.example.DivisasTest",
+      "fecha": "2026-10-15T00:14:20.117Z",
+      "pruebas": 4,
+      "fallos": 0,
+      "errores": 0,
+      "omitidas": 0,
+      "segundos": 0.022
+    },
+    {
+      "modulo": "Servidor",
+      "suite": "com.example.PresupuestosTest",
+      "fecha": "2026-10-15T00:14:20.140Z",
+      "pruebas": 4,
+      "fallos": 0,
+      "errores": 0,
+      "omitidas": 0,
+      "segundos": 0.015
+    },
+    {
+      "modulo": "Servidor",
+      "suite": "com.example.UxServiciosTest",
+      "fecha": "2026-10-15T00:14:20.156Z",
+      "pruebas": 5,
+      "fallos": 0,
+      "errores": 0,
+      "omitidas": 0,
+      "segundos": 0.47
+    }
+  ]
+}
